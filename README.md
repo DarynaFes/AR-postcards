@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Download [apk] (https://github.com/DarynaFes/AR-postcards/raw/master/Future_new_ver.apk) 
+Download [apk](https://github.com/DarynaFes/AR-postcards/raw/master/Future_new_ver.apk)
 
 You can use the [editor on GitHub](https://github.com/DarynaFes/AR-postcards/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
